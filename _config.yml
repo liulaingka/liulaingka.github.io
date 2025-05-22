@@ -1,11 +1,11 @@
 # Site settings
 title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: 全球实卡接码 | TG@esim1088
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: t.me/esim1088
+description: "全球实卡接码服务是一种为用户提供临时电话号码的服务 | 请通过✈与我们联系"
+keyword: "短信接码平台, SMS接码平台, 免费在线接码, 全球实卡短信, 实卡接码平台, ws全球接码, 美国实卡接码平台, 美国绿卡接码,美国实卡接码api, 英国实卡接码平台, 英国实卡接码aip,"
+url: "https://t.me/esim1088" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
